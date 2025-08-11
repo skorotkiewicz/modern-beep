@@ -35,6 +35,10 @@ cp target/release/beep ~/.local/bin/
 sudo cp target/release/beep /usr/local/bin/
 ```
 
+#### Arch Linux (AUR)
+- yay -S [modern-beep](https://aur.archlinux.org/packages/modern-beep)
+
+
 ### Dependencies
 
 The following system packages might be required depending on your Linux distribution:
